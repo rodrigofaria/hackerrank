@@ -20,5 +20,5 @@ function chocolateFeast(n, c, m) {
   return total
 }
 
-t = chocolateFeast(6, 2, 2)
-console.log(t)
+const result = chocolateFeast(6, 2, 2)
+console.log(result)
